@@ -21,7 +21,7 @@ else:
 def domain_ip(val):
     try:
         value = val.replace("https://", "").replace("http://", "")
-        IP = value.replace("wwww.", "")
+        IP = value.replace("wwww.", "").replace("/", "")
         with open("Results/ip.txt", "a") as ip:
             ip.write(gethostbyname(IP))
             ip.writelines("\n")
