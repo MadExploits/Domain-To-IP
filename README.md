@@ -1,5 +1,5 @@
-<div align="center">Domain-To-IP</div>
-Domain To IP By Mr.Mad
+<div align="center"><samp><h1>DOMAIN - TO - IP</h1></samp></div>
+<samp><b>&copy;Domain To IP By Mr.Mad</b></samp>
 
 
 installation
